@@ -1,0 +1,61 @@
+Walgreens – Store Ops Notes (for training/assistants)
+
+1. Front-end profitability (EBITDA drivers)
+- EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) at the store level is most sensitive to controllable expenses.
+- Primary levers:
+  a. Labor:
+     - Schedule to workload, not to habit; use forecasted sales/Rx volume to set hours.
+     - Protect peak hours (10a–2p, drive-time, script pickup) and trim low-value coverage.
+     - Cross-train photo/checkout to reduce idle time.
+     - Watch OT, shift pick-ups, and unapproved extends.
+  b. Shrink:
+     - Lock high-loss categories (beauty, OTC, diabetes, infant formula, sexual health).
+     - Daily void/refund review; investigate patterns by TM and time of day.
+     - Keep receiving clean — backroom errors become shrink.
+     - Front-face/zone daily to spot missing/high-risk items.
+  c. Promo effectiveness:
+     - Endcaps and power aisles must match the weekly ad.
+     - Use signage and correct pricing — promo without signing = missed lift.
+     - Track promo sell-through; transfer, markdown, or flex if not moving.
+     - Coach cashiers to suggestive-sell basket builders (water, candy, seasonal).
+- Secondary levers:
+  - Out-of-stocks kill margin because guests trade down or leave. Run outs nightly.
+  - Front store standards (clean, faced, lit) increase impulse purchases.
+  - Photo, immunizations, and pickup all increase traffic, which helps front-store sales.
+
+2. Pharmacy volume and growth
+- Pharmacy volume is primarily driven by:
+  a. Immunizations:
+     - Flu, COVID, RSV, and pneumonia (when appropriate) increase patient touchpoints.
+     - Proactive outreach (text/call) before season peaks drives appointments.
+     - Running store announcements every 20–30 minutes raises awareness.
+  b. Adherence:
+     - 90-day conversions, auto-refills, and sync programs improve kept scripts.
+     - Late-to-fill and too-soon reports should be worked daily.
+     - Techs should be assigned to adherence tasks with clear goals.
+  c. Provider relationships:
+     - Nearby clinics/urgent care drive new patients; check in regularly.
+     - Fast, accurate fill times and low rework make prescribers send more to the store.
+     - Offer solutions for high-touch meds (special packaging, delivery if available).
+- Service factors:
+  - Wait-time, accuracy, and friendliness all affect whether a patient stays.
+  - Consistent vaccine/clinical availability makes the store the “default” for the area.
+
+3. Weekend staffing and volume alignment
+- Weekend staffing should match script volume and pickup patterns, not just posted store hours.
+- Use historical Saturday/Sunday Rx counts to build the schedule.
+- If Saturday AM is heavy: staff earlier with a tech and pharmacist overlap.
+- If Sunday PM is heavy: keep coverage later to finish fills and pickups.
+- Avoid leaving 1 person to run drop-off, pickup, and production during peak — it creates errors and bad service.
+- Consider rotating weekends across pharmacists/techs to prevent burnout and maintain service.
+
+4. Operational rhythms to protect performance
+- Daily: zone, outs, Rx queue clean-up, void/refund check, pickup shelf clean.
+- Weekly: labor vs. plan review, shrink/high-loss review, promo compliance walk.
+- Monthly: immunization performance, provider outreach log, inventory accuracy review.
+
+5. What to watch
+- Labor % to sales (front) and hours per Rx (pharmacy).
+- Shrink in high-risk/OTC categories.
+- Immunization counts vs. district average.
+- Script volume by day-of-week to optimize weekend coverage.
