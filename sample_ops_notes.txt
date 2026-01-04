@@ -1,4 +1,4 @@
-Walgreens – Store Ops Notes (for training/assistants)
+Walgreens – Sample Ops Notes (for training/assistants)
 
 1. Front-end profitability (EBITDA drivers)
 - EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) at the store level is most sensitive to controllable expenses.
@@ -59,3 +59,4 @@ Walgreens – Store Ops Notes (for training/assistants)
 - Shrink in high-risk/OTC categories.
 - Immunization counts vs. district average.
 - Script volume by day-of-week to optimize weekend coverage.
+
